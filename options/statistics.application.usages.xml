@@ -1,0 +1,25 @@
+<application>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="1" />
+      <entry feature="StripeButton[Version Control].shown" count="1" />
+      <entry feature="execute.Application.Run" count="16" />
+      <entry feature="ide.settings.Appearance" count="19" />
+      <entry feature="ide.settings.Auto_Import" count="1" />
+      <entry feature="ide.settings.Code_Completion" count="1" />
+      <entry feature="ide.settings.Editor_Tabs" count="1" />
+      <entry feature="ide.settings.Font" count="4" />
+      <entry feature="ide.settings.HTTP_Proxy" count="3" />
+      <entry feature="ide.settings.Keymap" count="10" />
+      <entry feature="ide.settings.Plugins" count="2" />
+      <entry feature="ide.settings.SBT" count="3" />
+      <entry feature="ide.settings.System_Settings" count="1" />
+      <entry feature="ideaapp.started" count="17" />
+      <entry feature="scala.file.script.parsed" count="5855" />
+      <entry feature="scala.file.with.type.aware.annotated" count="221" />
+      <entry feature="scala.introduce.variable" count="1" />
+      <entry feature="terminal.linux" count="16" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="1" />
+    </counts>
+  </component>
+</application>

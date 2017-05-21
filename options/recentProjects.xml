@@ -1,0 +1,67 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/IdeaProjects/scala_learn" />
+        <option value="$USER_HOME$/GitWorkspace/stats" />
+        <option value="$USER_HOME$/GitWorkspace/play-scala-starter-example" />
+        <option value="$USER_HOME$/IdeaProjects/stats" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/GitWorkspace/stats" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/IdeaProjects/scala_learn" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/GitWorkspace/play-scala-starter-example">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.15188.11" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1495260640359" />
+              <option name="buildTimestamp" value="1490393445861" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/GitWorkspace/stats">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.15188.11" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1495367045393" />
+              <option name="buildTimestamp" value="1490393457125" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/scala_learn">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.15188.11" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1495367221570" />
+              <option name="buildTimestamp" value="1490393457125" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/stats">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.15188.11" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1494747193727" />
+              <option name="buildTimestamp" value="1490393413120" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/GitWorkspace" />
+  </component>
+</application>

@@ -1,0 +1,13 @@
+CVS
+CloudBees
+CloudFoundry
+Heroku
+IdeaVIM
+OpenShift
+PerforceDirectPlugin
+TFS
+com.intellij.flex
+hg4idea
+org.coffeescript
+org.jetbrains.android
+org.jetbrains.plugins.stylus

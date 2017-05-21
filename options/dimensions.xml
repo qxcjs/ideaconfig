@@ -1,0 +1,27 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1366.768" x="466" y="302" />
+    <location key="WELCOME_SCREEN.0.0.1366.768" x="682" y="230" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1366.768" x="394" y="271" />
+    <location key="ProcessPopupWindow.0.0.1366.768" x="244" y="362" />
+    <location key="SettingsEditor.0.0.1366.768" x="156" y="57" />
+    <location key="#Browse_JetBrains_Plugins_.0.0.1366.768" x="532" y="105" />
+    <location key="NewModule_or_Project.wizard.0.0.1366.768" x="386" y="200" />
+    <location key="EditParametersPopupWindow.0.0.1366.768" x="536" y="324" />
+    <location key="StructurePopup.0.0.1366.768" x="416" y="206" />
+    <location key="bookmarks.0.0.1366.768" x="311" y="222" />
+    <size key="FileChooserDialogImpl.0.0.1366.768" width="424" height="466" />
+    <size key="ProcessPopupWindow.0.0.1366.768" width="1079" height="122" />
+    <size key="SettingsEditor.0.0.1366.768" width="1082" height="711" />
+    <size key="#Browse_JetBrains_Plugins_.0.0.1366.768" width="824" height="663" />
+    <size key="GridCell.Tab.0.left.0.0.1366.768" width="1322" height="175" />
+    <size key="GridCell.Tab.0.center.0.0.1366.768" width="1322" height="175" />
+    <size key="GridCell.Tab.0.right.0.0.1366.768" width="1322" height="175" />
+    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="1322" height="175" />
+    <size key="NewModule_or_Project.wizard.0.0.1366.768" width="584" height="568" />
+    <size key="EditParametersPopupWindow.0.0.1366.768" width="376" height="207" />
+    <size key="StructurePopup.0.0.1366.768" width="522" height="368" />
+    <size key="javadoc.popup.0.0.1366.768" width="483" height="179" />
+    <size key="bookmarks.0.0.1366.768" width="742" height="345" />
+  </component>
+</application>
